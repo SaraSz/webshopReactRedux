@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+
+.tabbody {
+  width: 350px; 
+  height: auto; 
+  border: 5px solid #6F2345;
+  font-family: BioRhyme;
+}
+
+.App {
+	padding: 20px;
+}
+
+button {
+  font-family: BioRhyme;
+}
